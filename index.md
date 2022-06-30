@@ -4,52 +4,100 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb)
-
-<img src="images/seoul-bikes.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
-
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
-
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
-
-***
-
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Suicide Rate Prediction](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
+**Data:** https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Pycountry, Gradio
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+**Project Objective:** To find features correlated to increased suicide rates among different countries globally, across various socio-economic spectrum, and make predictions for the fututre
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+**Quantifiable result:** The number of suicide cases per year for each country using  [**99%** accuracy using Random Forest Regressor (https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb).
 
+- Used various techniques to clean the dataset and make it ready
+- EDA was performed 
+- Linear Regression and Random Forest Resgression were applied
+- A 99% accuracy was found using the Random Forest Regressor
+- Model was evalued using accuracy, precision, recall, confusion matrix and classification report was compared
+- Explored various ways to interprete the result
+- Model deployment was performed using gradio
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Employees-Attrition-Prediction](https://github.com/BayeTechis/Employees-Attrition-Prediction/blob/main/EmployeeAttritionPrediction.ipynb)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** Prediction of whether a given employee will leave in the next two quarters or not
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** The probablity of an employee leaving was predicted a accuracy of [**80%** using Naive Baye's classifier](https://github.com/BayeTechis/Employees-Attrition-Prediction/blob/main/EmployeeAttritionPrediction.ipynb).
 
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
-- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+- Data was cleaned using various techniques
+- EDA was performed to better understand the dataset
+- Categorical variables were encoded
+- Scaling was performed
+- Cleaned, encoded and scaled data was fitted to Naive Baye's, Decison Tree, K Neighbors classifiers and Logistic Regression 
+- SMOTE was performed and data was re-fitted 
+- Model was evalued using accuracy, precision, recall, confusion matrix and classification report was compared
+- Data Source: https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition
+
+[Customer-Personality-Analysis ](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb)
+
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+
+**Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
+
+**Project Objective:** Clustering of a dataset based on customers personality
+
+**Quantifiable result:** Customers were clustered into four groups using K Means clustering (https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb).
+
+- Data was cleaned using various techniques
+- EDA was performed to better understand the dataset
+- Categorical variables were encoded
+- Outliers were taken care of
+- Scaling was performed
+- Cleaned, encoded and scaled data was fitted to K Means clustering
+- Model was evaluated using Silhouttee 
+- Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
+
+[Happiness-Score-Prediction](https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb)
+
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+
+**Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
+
+**Project Objective:** Prediction of happiness score for a given country 
+**Quantifiable result:** Happiness score was predicted with accuracy of [**92%** using Linear Regression] (https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb).
+
+- Data was cleaned using various techniques
+- EDA was performed to better understand the dataset
+- Categorical variables were encoded
+- Outliers were taken care of 
+- Scaling was performed
+- Cleaned, encoded and scaled data was fitted to Linear Regression 
+- Result was explored to see the effect of important features
+- Model was evaluated with accuracy score, MSE, r2, and RMSE
+- Data Source: https://www.kaggle.com/unsdsn/world-happiness
+
+[Heart-Disease-Prediction](https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb)
+
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+
+**Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
+
+**Project Objective:** Heart disease were predicted for a given input
+**Quantifiable result:** Overall prediction with accuracy of [**59%** using Decision Tree Classifier] (https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb).
+
+- Data was cleaned using various techniques
+- EDA was performed to better understand the dataset
+- Categorical variables were encoded
+- Outliers were taken care of 
+- Scaling was performed
+- Cleaned, encoded and scaled data was fitted to varios classifier models 
+- Result was explored to see the effect of important features
+- Model was evaluated with accuracy, precision, recall, confusion matrix and classification report was compared
+- Since the dataset has a very small set of data points and there were five outputs categories, the accuracy was low
+- Data Source: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
