@@ -14,7 +14,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** To find features correlated to increased suicide rates among different countries globally, across various socio-economic spectrum, and make predictions for the fututre
 
-**Quantifiable result:** The number of suicide cases per year for each country using  [**99%** accuracy using Random Forest Regressor (https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb).
+**Quantifiable result:** The number of suicide cases per year for each country using  [**99%** accuracy using Random Forest Regressor](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb).
 
 - Used various techniques to clean the dataset and make it ready
 - EDA was performed 
@@ -52,7 +52,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Clustering of a dataset based on customers personality
 
-**Quantifiable result:** Customers were clustered into four groups using K Means clustering (https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb).
+**Quantifiable result:** Customers were clustered into four groups using [K Means clustering](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb).
 
 - Data was cleaned using various techniques
 - EDA was performed to better understand the dataset
@@ -70,7 +70,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
 **Project Objective:** Prediction of happiness score for a given country 
-**Quantifiable result:** Happiness score was predicted with accuracy of [**92%** using Linear Regression] (https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb).
+**Quantifiable result:** Happiness score was predicted with accuracy of [**92%** using Linear Regression](https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb).
 
 - Data was cleaned using various techniques
 - EDA was performed to better understand the dataset
@@ -89,7 +89,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
 **Project Objective:** Heart disease were predicted for a given input
-**Quantifiable result:** Overall prediction with accuracy of [**59%** using Decision Tree Classifier] (https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb).
+**Quantifiable result:** Overall prediction with accuracy of [**59%** using Decision Tree Classifier](https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb).
 
 - Data was cleaned using various techniques
 - EDA was performed to better understand the dataset
