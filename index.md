@@ -1,7 +1,26 @@
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+Here are some of my best Data Science Projects. I have explored various deep learing and machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
+***
+[Plant-Disease-Prediction-with-CNN](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb)
+
+<img src="plantvillage.png"/>
+
+**Data:** https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+**Skills used:** Python, Numpy, Matplotlib, Seaborn, Tensor flow, Neural Networking, Keras, 
+
+**Project Objective:** To predict the disease type
+
+**Quantifiable result:** The model predicted diseases with [**97%** accuracy using CNN](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb).
+
+- Used various techniques to clean the dataset and make it ready
+- EDA was performed 
+- A CNN model was bult
+- A 97% accuracy was found using 30 epochs
+- Model was evalued using accuracy
+- Explored result by providing all new test data that the model hasn't seen before
 ***
 
 [Suicide Rate Prediction](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb)
