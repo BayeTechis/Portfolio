@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Suicide Rate Prediction](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/American Psychological Association.jpg?raw=true"/>
 
 **Data:** https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
@@ -27,7 +27,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Employees-Attrition-Prediction](https://github.com/BayeTechis/Employees-Attrition-Prediction/blob/main/EmployeeAttritionPrediction.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/The Omnia Group.png?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
