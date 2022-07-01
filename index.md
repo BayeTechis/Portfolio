@@ -5,7 +5,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 ***
 [Plant-Disease-Prediction-with-CNN](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb)
 
-<img src="plantvillage.png"/>
+<img src="plantvillage.png?raw=true"/>
 
 **Data:** https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
