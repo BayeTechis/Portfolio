@@ -21,6 +21,29 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - A 97% accuracy was found using 30 epochs
 - Model was evalued using accuracy
 - Explored result by providing all new test data that the model hasn't seen before
+
+***
+
+[NLP Amazon Fine Food Reviews Analysis (with SMOTE)](https://github.com/BayeTechis/NPL/blob/main/NLP%20Amazon%20Fine%20Food%20Reviews%20Analysis%20(with%20SMOTE).ipynb)
+
+<img src="amazonfinefoods.png?raw=true"/>
+
+**Data:** https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+**Skills used:** Python, Numpy, Matplotlib, Seaborn, ntlk, re, scikitplot, SKlearn
+
+**Project Objective:** To review customer feedbacks 
+
+**Quantifiable result:** The model identified positive and negative reviews [**96%** accuracy using BoW model, **94%** using TF-IDF model with Naive Bayes](https://github.com/BayeTechis/NPL/blob/main/NLP%20Amazon%20Fine%20Food%20Reviews%20Analysis%20(with%20SMOTE).ipynb).
+
+- Used various techniques to clean the dataset and make it ready
+- EDA was performed 
+- SMOTE was performed
+- BoW model was bult with Naive Baye's classifier
+- A 97% accuracy was found 
+- TF-IDF model was built with Naive Baye's classifier 
+- A 94% accuracy was achieved
+- Explored result by providing all new test data that the model hasn't seen before
 ***
 
 [Suicide Rate Prediction](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb)
