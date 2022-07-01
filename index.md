@@ -89,6 +89,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
 **Project Objective:** Prediction of happiness score for a given country 
+
 **Quantifiable result:** Happiness score was predicted with accuracy of [**92%** using Linear Regression](https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb).
 
 - Data was cleaned using various techniques
@@ -108,6 +109,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
 **Project Objective:** Heart disease were predicted for a given input
+
 **Quantifiable result:** Overall prediction with accuracy of [**59%** using Decision Tree Classifier](https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb).
 
 - Data was cleaned using various techniques
