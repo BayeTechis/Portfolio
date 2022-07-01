@@ -5,7 +5,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 ***
 [Plant-Disease-Prediction-with-CNN](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb)
 
-<img src="plantvillage.png?raw=true"/>
+<img src="plant-diseases.jfif?raw=true"/>
 
 **Data:** https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
@@ -65,7 +65,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 [Customer-Personality-Analysis ](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb)
 
-<img src="Cluster1.png?raw=true"/>
+<img src="Consumer-Buying-Behavior.png?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
