@@ -46,7 +46,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Customer-Personality-Analysis ](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb)
 
-<img src="images/The Earth Institute -Columbia University.jpg?raw=true"/>
+<img src="Cluster1.png?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
