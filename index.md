@@ -46,7 +46,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Customer-Personality-Analysis ](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/The Earth Institute -Columbia University.jpg?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
@@ -65,7 +65,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Happiness-Score-Prediction](https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/The Earth Institute -Columbia University.jpg?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
@@ -84,7 +84,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Heart-Disease-Prediction](https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/Nationla Heart, Lung, and Blood Institute.jpg?raw=true"/>
 
 **Skills used:** Python,Numpy, Pandas, SKlearn, Matplotlib, Seaborn, Plotly express
 
