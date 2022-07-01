@@ -86,6 +86,8 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Model was evalued using accuracy, precision, recall, confusion matrix and classification report was compared
 - Data Source: https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition
 
+***
+
 [Customer-Personality-Analysis ](https://github.com/BayeTechis/Customer-Personality-Analysis/blob/main/CustomerPersonalityAnalysis.ipynb)
 
 <img src="Consumer-Buying-Behavior.png?raw=true"/>
@@ -104,6 +106,8 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Cleaned, encoded and scaled data was fitted to K Means clustering
 - Model was evaluated using Silhouttee 
 - Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
+
+***
 
 [Happiness-Score-Prediction](https://github.com/BayeTechis/Happiness-Prediction/blob/main/HappinessPrediction.ipynb)
 
@@ -124,6 +128,8 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Result was explored to see the effect of important features
 - Model was evaluated with accuracy score, MSE, r2, and RMSE
 - Data Source: https://www.kaggle.com/unsdsn/world-happiness
+
+***
 
 [Heart-Disease-Prediction](https://github.com/BayeTechis/Heart-Disease/blob/main/UCIHeartDisease.ipynb)
 
