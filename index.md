@@ -44,6 +44,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - TF-IDF model was built with Naive Baye's classifier 
 - A 94% accuracy was achieved
 - Explored result by providing all new test data that the model hasn't seen before
+
 ***
 
 [Suicide Rate Prediction](https://github.com/BayeTechis/Suicide-Rates-Prediction/blob/main/SuicideRatesPrediction.ipynb)
@@ -65,6 +66,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Model was evalued using accuracy, precision, recall, confusion matrix and classification report was compared
 - Explored various ways to interprete the result
 - Model deployment was performed using gradio
+
 ***
 
 [Employees-Attrition-Prediction](https://github.com/BayeTechis/Employees-Attrition-Prediction/blob/main/EmployeeAttritionPrediction.ipynb)
