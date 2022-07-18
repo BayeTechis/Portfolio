@@ -7,7 +7,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 <img src="plantvillagedisease.png?raw=true"/>
 
-**Data:** https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+**Data:** [data](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 
 **Skills used:** Python, Numpy, Matplotlib, Seaborn, Tensor flow, Neural Networking, Keras, 
 
@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 <img src="amazonfinefoods.png?raw=true"/>
 
-**Data:** https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+**Data:** [data](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 
 **Skills used:** Python, Numpy, Matplotlib, Seaborn, ntlk, re, scikitplot, SKlearn
 
@@ -51,7 +51,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 <img src="images/American Psychological Association.jpg?raw=true"/>
 
-**Data:** https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+**Data:** [data](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib, Seaborn, Pycountry, Gradio
 
@@ -86,7 +86,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Cleaned, encoded and scaled data was fitted to Naive Baye's, Decison Tree, K Neighbors classifiers and Logistic Regression 
 - SMOTE was performed and data was re-fitted 
 - Model was evalued using accuracy, precision, recall, confusion matrix and classification report was compared
-- Data Source: https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition
+**Data:** [data](https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition)
 
 ***
 
@@ -107,7 +107,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Scaling was performed
 - Cleaned, encoded and scaled data was fitted to K Means clustering
 - Model was evaluated using Silhouttee 
-- Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
+**Data** [data](https://www.kaggle.com/imakash3011/customer-personality-analysis)
 
 ***
 
@@ -129,7 +129,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Cleaned, encoded and scaled data was fitted to Linear Regression 
 - Result was explored to see the effect of important features
 - Model was evaluated with accuracy score, MSE, r2, and RMSE
-- Data Source: https://www.kaggle.com/unsdsn/world-happiness
+**Data:** [data]https://www.kaggle.com/unsdsn/world-happiness
 
 ***
 
@@ -152,4 +152,4 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 - Result was explored to see the effect of important features
 - Model was evaluated with accuracy, precision, recall, confusion matrix and classification report was compared
 - Since the dataset has a very small set of data points and there were five outputs categories, the accuracy was low
-- Data Source: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
+**Data:** [data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
