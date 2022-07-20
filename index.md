@@ -3,7 +3,49 @@
 Here are some of my best Data Science Projects. I have explored various deep learing and machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
-[Plant-Disease-Prediction-with-CNN](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb)
+[Data Science and Machine Learning Capstone Project by IBM](https://github.com/BayeTechis/Data-Science-and-Machine-Learning-Capstone-Project)
+
+<img src="falcon 9.png?raw=true"/>
+
+**Data:** [data source API](https://api.spacexdata.com/v4/launches/past)
+          [data source web scraping](https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches)
+
+**Skills used:** python, API request, web scraping, numpy, pandas, matplotlib, seaborn, plotly, folium, sklearn
+
+**Project Objective:** To predict if first launch of Falcon 9 rocket lands
+
+**Quantifiable result:** The model predicted diseases with [**83%** accuracy various models](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb).
+
+- Used various techniques to clean the dataset and make it ready
+- EDA was performed 
+- Logistic reggression, descision tree, KNN and SVM models with hyperparameter tuning by Grid Search CV
+- 83% accuracy was found with all models
+- models evalueted with confusion matrics, accuracy and fl-scores
+- Explored result by providing all new test data that the model hasn't seen before
+
+***
+
+[Biodiesel Production Optimization](https://github.com/BayeTechis/Biodiesel-Production-Optimization)
+
+<img src="Biodiesel Optimization pcr.jpg?raw=true"/>
+
+**Data:** [Lab generated]( )
+
+**Skills used:** excel, ANOVA, matplotlib, seaborn, design expert 
+
+**Project Objective:** determine optimum biodiesel production conditions
+
+**Quantifiable result:** Achieved an improved 59% reaction conversion rate and a [**95%** accuracy using polynomial regression degree 2](https://github.com/BayeTechis/Biodiesel-Production-Optimization).
+
+- data was lab generated for train, test and validation data sets 
+- EDA was performed 
+- polynomial regression with degree 2 was used
+- A 95% accuracy was fachieved
+- Model was evalued using R squared, sum of errors 
+
+***
+
+[Plant-Disease-Prediction](https://github.com/BayeTechis/Plant-Disease-Prediction-with-CNN/blob/main/Plant%20Village%20CNN.ipynb)
 
 <img src="plantvillagedisease.png?raw=true"/>
 
@@ -24,7 +66,7 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 ***
 
-[NLP Amazon Fine Food Reviews Analysis (with SMOTE)](https://github.com/BayeTechis/NPL/blob/main/NLP%20Amazon%20Fine%20Food%20Reviews%20Analysis%20(with%20SMOTE).ipynb)
+[Amazon Fine Food Reviews Analysis (with SMOTE)](https://github.com/BayeTechis/NPL/blob/main/NLP%20Amazon%20Fine%20Food%20Reviews%20Analysis%20(with%20SMOTE).ipynb)
 
 <img src="amazonfinefoods.png?raw=true"/>
 
