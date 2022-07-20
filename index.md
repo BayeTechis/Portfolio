@@ -7,8 +7,8 @@ Here are some of my best Data Science Projects. I have explored various deep lea
 
 <img src="falcon 9.png?raw=true"/>
 
-**Data:** [data source API](https://api.spacexdata.com/v4/launches/past)
-          [data source web scraping](https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches)
+**Data:** **1** [data source API](https://api.spacexdata.com/v4/launches/past)
+          **2** [data source web scraping](https://en.wikipedia.org/wiki/List_of_Falcon\_9\_and_Falcon_Heavy_launches)
 
 **Skills used:** python, API request, web scraping, numpy, pandas, matplotlib, seaborn, plotly, folium, sklearn
 
